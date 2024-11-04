@@ -1,5 +1,5 @@
 export const homeContent = document.createElement("div");
-import chefImage from "./images/chef_photo.jpeg"
+import chefImage from "./images/chef_photo.jpeg";
 
 const introduction = document.createElement("div");
 
