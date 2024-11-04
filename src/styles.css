@@ -37,9 +37,13 @@ h1 {
     color: var(--color1);
 }
 
-#content {
+#content, .content {
     margin-top: 5vh;
     display: flex;
     flex-direction: column;
     align-items: center;
+}
+
+p {
+    color: var(--color2);
 }
